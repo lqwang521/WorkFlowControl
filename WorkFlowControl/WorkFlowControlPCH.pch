@@ -1,0 +1,21 @@
+//
+//  WorkFlowControlPCH.pch
+//  WorkFlowControl
+//
+//  Created by wlq on 2016/10/18.
+//  Copyright © 2016年 htmitech. All rights reserved.
+//
+
+#ifndef WorkFlowControlPCH_pch
+#define WorkFlowControlPCH_pch
+
+#define WorkFlowControl_Enable_MX
+
+#ifdef __OBJC__
+
+//#import <UIKit/UIKit.h>
+//#import <Foundation/Foundation.h>
+
+#endif
+
+#endif /* WorkFlowControlPCH_pch */
